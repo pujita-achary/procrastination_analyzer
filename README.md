@@ -8,7 +8,7 @@ ProcrastiScope analyzes a student's academic activity history, measures *how* cl
 
 ![Dashboard](screenshots/dashboard.png)
 
-**🔗 Live demo:** `<add your Streamlit Cloud URL>`
+**🔗 Live demo:** `<https://procrastiscope.streamlit.app/>`
 
 ---
 
